@@ -9,6 +9,7 @@ This is my solution for @alexgurr [Spootify Coding Challenge](https://github.com
 
 - Frontend
   - React
+  - Spotify Web API
   - Axios
   - Material UI
   - React Router Dom
